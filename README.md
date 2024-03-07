@@ -6,9 +6,9 @@
  * Guess the hidden word within a specified number of attempts.
  * Choose between two gameplay modes: a 3-letter or 5-letter word challenge.
  * Receive feedback on your guesses:
-  * An uppercase letter indicates the correct character in the correct position.
-  * A lowercase letter signifies the correct character in the wrong position.
-  * An asterisk (*) denotes an incorrect character.
+   * An uppercase letter indicates the correct character in the correct position.
+   * A lowercase letter signifies the correct character in the wrong position.
+   * An asterisk (*) denotes an incorrect character.
  * Aim for the highest score by minimizing your attempts and solving puzzles quickly.
 
 ### Features
